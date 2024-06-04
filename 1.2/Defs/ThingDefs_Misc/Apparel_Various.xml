@@ -1,4 +1,5 @@
-﻿<Defs>
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
         <ThingDef ParentName="ApparelMakeableBase">
 		<defName>Yinglet_Herocape</defName>
 		<label>Heroic Cape</label>
